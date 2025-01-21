@@ -1,12 +1,41 @@
-# CoAgents Starter
+# Purrse - Financial Management App
 
-This example contains a simple starter project.
+Welcome to **Purrse**, a financial management app that helps you track your income, expenses, and savings. It also features a goal tracker, transaction log, and a chatbot powered by CopilotKit to assist you with managing your finances.
 
-**These instructions assume you are in the `coagents-starter/` directory**
+## Features
 
-## Running the Agent
+- **Income & Expense Tracker**: Track your income and expenses with ease. Visualize your balance and track your progress towards savings.
+- **Goal Tracker**: Set financial goals and monitor your progress towards achieving them. Once the goal is reached, confetti will celebrate your achievement.
+- **Transaction Log**: Keep a log of all your financial transactions, including income and expenses.
+- **Chatbot Assistant**: A helpful chatbot powered by CopilotKit is available to guide you through managing your finances.
 
-First, install the dependencies:
+## Tech Stack
+
+- **NextJS**: Frontend framework for building interactive UIs.
+- **TypeScript**: Ensures type safe code
+- **Tailwind CSS**: For responsive, utility-first styling.
+- **CopilotKit**: Used to integrate the chatbot functionality.
+- **Canvas Confetti**: To trigger confetti once a financial goal is reached.
+- **Lucide Icons**: Provides SVG icons for the UI.
+
+## Getting Started
+
+To get started with the project, follow the steps below:
+
+### Prerequisites
+
+- Node.js (>= 14.0.0)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/JuanitaCathy/purrse.git
+   ```
+
+2. install the dependencies:
 
 ```sh
 cd agent
@@ -27,7 +56,7 @@ poetry run demo
 
 ## Running the UI
 
-First, install the dependencies:
+1. Install the dependencies:
 
 ```sh
 cd ./ui
@@ -50,11 +79,6 @@ pnpm run dev
 
 Navigate to [http://localhost:3000](http://localhost:3000).
 
-# LangGraph Studio
-
-Run LangGraph studio, then load the `./agent` folder into it.
-
-Make sure to create teh `.env` mentioned above first!
 
 # Troubleshooting
 
