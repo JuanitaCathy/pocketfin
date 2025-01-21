@@ -20,7 +20,7 @@ It's powered by Langraph agent for user interaction by copilotkit coagents!
 
 ## Demo
 
-
+https://www.youtube.com/watch?v=aiyWQP0sgc0
 
 ## Getting Started
 
