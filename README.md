@@ -1,13 +1,13 @@
 # PocFin - Finance App
 
-Welcome to **PocFin**, a financial management app that helps you track your income, expenses, and savings. It also features a goal tracker, transaction log, and a chatbot powered by CopilotKit to assist you with managing your finances.
+Welcome to **PocFin**, a financial management app that helps you track your income, expenses, and savings. It also features a goal tracker, transaction log.
+It's powered by Langraph agent for user interaction by copilotkit coagents!
 
 ## Features
 
 - **Income & Expense Tracker**: Track your income and expenses with ease. Visualize your balance and track your progress towards savings.
 - **Goal Tracker**: Set financial goals and monitor your progress towards achieving them. Once the goal is reached, confetti will celebrate your achievement.
 - **Transaction Log**: Keep a log of all your financial transactions, including income and expenses.
-- **Chatbot Assistant**: A helpful chatbot powered by CopilotKit is available to guide you through managing your finances.
 
 ## Tech Stack
 
