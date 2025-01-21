@@ -1,6 +1,6 @@
-# Purrse - Financial Management App
+# PocFin - Finance App
 
-Welcome to **Purrse**, a financial management app that helps you track your income, expenses, and savings. It also features a goal tracker, transaction log, and a chatbot powered by CopilotKit to assist you with managing your finances.
+Welcome to **PocFin**, a financial management app that helps you track your income, expenses, and savings. It also features a goal tracker, transaction log, and a chatbot powered by CopilotKit to assist you with managing your finances.
 
 ## Features
 
@@ -17,6 +17,10 @@ Welcome to **Purrse**, a financial management app that helps you track your inco
 - **CopilotKit**: Used to integrate the chatbot functionality.
 - **Canvas Confetti**: To trigger confetti once a financial goal is reached.
 - **Lucide Icons**: Provides SVG icons for the UI.
+
+## Demo
+
+
 
 ## Getting Started
 
